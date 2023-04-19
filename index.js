@@ -57,7 +57,7 @@ inquirer
     },
   ]).then(data=>{ 
     const mark = markDown.generateMarkdown(data);
-    fs.writeFile(`README.md`,mark,(err)=>
+    fs.writeFile(`README2.md`,mark,(err)=>
     {
       if(err){
         throw err

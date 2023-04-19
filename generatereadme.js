@@ -32,52 +32,49 @@ class markDown {
      }
     static generateMarkdown(data) {
       return `
-    # ${data.title}
+# ${data.title}
     
-    ${this.renderLicenseBadge(data.License)} 
-   
-    ## Table of Contents
+${this.renderLicenseBadge(data.License)} 
+
+## Table of Contents
   
-    - [Description](#Description)
-    - [Contributing](#Contributing)
-    - [Usage](#Usage)
-    - [License](#License)
-    - [Installation](#Installation)
-    - [Test](#Test)
-    - [Question](#Question)
+  - [Description](#Description)
+  - [Contributing](#Contributing)
+  - [Usage](#Usage)
+  - [License](#License)
+  - [Installation](#Installation)
+  - [Test](#Test)
+  - [Question](#Question)
   
-    ## Description
-    ${data.description}
+  ## Description
+  ${data.description}
   
-    ## Contributing
-    ${data.Contributing}
+  ## Contributing
+  ${data.Contributing}
   
-    ## Usage
-    ${data.Usage}
+  ## Usage
+  ${data.Usage}
   
-    ## License
-    ${data.License}
+  ## License
+  ${data.License}
   
-    Licensed Under:- ${this.renderLicenseLink(data.License)}
+  click on the link to learn about the License ${this.renderLicenseLink(data.License)}
   
-    ## Installation
-    ${data.Installation}
+  ## Installation
+  ${data.Installation}
   
-    ## Test
-    ${data.Test}
+  ## Test
+  ${data.Test}
   
+  ${this.renderLicenseSection(data.License)}
   
-    ${this.renderLicenseLink(data.License)}
-  
-    ${this.renderLicenseSection(data.License)}
-  
-    ## Question
-    ${data.Questions}
+  ## Question
+  ${data.Questions}
     
-    My GitHub profile is https://github.com/${data.GitHub}
+  My GitHub profile is https://github.com/${data.GitHub}
     
   
-    For further questions please reach me at ${data.email}
+  For further questions please reach me at ${data.email}
   `;
     }
   }
