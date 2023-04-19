@@ -2,21 +2,20 @@
 
 ## Table of Contents
   
-    - [Description](#Description)
-    - [Usage](#Usage)
-    - [License](#License)
-    - [Questions](#Question)
+ - [Description](#Description)
+ - [Usage](#Usage)
+ - [License](#License)
+ - [Questions](#Question)
     
-    
-    ## Description
-    To generate a readme file when user gives the input
+ ## Description
+ To generate a readme file when user gives the input
   
-    ## Usage
-    Eveyone who buildes a project can use readme file
+ ## Usage
+ Eveyone who buildes a project can use readme file
   
-    ## License
-    MIT
+ ## License
+ MIT
   
-    ## Question
-    My GitHub profile is https://github.com/vkyamiini
-    For further questions please reach me at : vkyamini6@gmail.com
+ ## Question
+ My GitHub profile is https://github.com/vkyamiini
+ For further questions please reach me at : vkyamini6@gmail.com
