@@ -16,11 +16,13 @@
   
  ## Usage
  Eveyone who buildes a project can use readme file
- link : https://drive.google.com/file/d/18mHrZB7MDQOYSAjHKEz4BIgdnj-qQ1Rb/view
+
+ link for the recording: https://drive.google.com/file/d/18mHrZB7MDQOYSAjHKEz4BIgdnj-qQ1Rb/view
   
  ## License
  MIT
   
  ## Question
  My GitHub profile is https://github.com/vkyamiini
+
  For further questions please reach me at : vkyamini6@gmail.com
