@@ -1,7 +1,7 @@
 
 # Create a Readme File
     
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![License: Open Font-1.1](https://img.shields.io/badge/License-OFL_1.1-lightgreen.svg)](https://opensource.org/licenses/OFL-1.1) 
 
 ## Table of Contents
   
@@ -14,7 +14,7 @@
   - [Question](#Question)
   
   ## Description
-  Enabling all users to create a Readme File by just entering the details in command line
+  Enabling all the users to generate a readme file just by giving details in command line
   
   ## Contributing
   NA
@@ -23,17 +23,17 @@
   NA
   
   ## License
-  MIT
+  SIL
   
-  click on the link to learn about the License [MIT](https://chooselicense.com/licenses/mit)
+  click on the link to learn about the License [SIL](https://chooselicense.com/licenses/sil)
   
   ## Installation
-  Node to be installed
+  NA
   
   ## Test
   NA
   
-  licensed under [MIT](https://chooselicense.com/licenses/mit)
+  licensed under [SIL](https://chooselicense.com/licenses/sil)
   
   ## Question
   NA

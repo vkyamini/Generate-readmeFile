@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![Screenshot](./screenshot.png)
+![Screenshot](./assests/screenshot.png)
 
 ## Table of Contents
   
